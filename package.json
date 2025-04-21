@@ -1,0 +1,17 @@
+{
+  "name": "sslap",
+  "version": "1.0.0",
+  "description": "Bonjour, je crée un nouveau projet. Je veux créer un serveur nodejs/express sur lequel on peut se connecter en utilisant un certificat pkcs12 stocké dans le navigateur. Que me proposes-tu ?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0"
+  }
+}
